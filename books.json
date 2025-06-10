@@ -6,7 +6,7 @@
     "Издательство": "Техносфера",
     "Описание": "Полное руководство по созданию сетевых приложений на платформе .NET",
     "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_a.pdf",
-    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/net_programming.jpg"
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/1.jpg"
   },
   {
     "Название": "Сетевые протоколы и их реализация",
@@ -15,7 +15,7 @@
     "Издательство": "БИНОМ",
     "Описание": "Подробное описание сетевых протоколов и примеры их реализации",
     "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_b.pdf",
-    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/network_protocols.jpg"
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/2.jpg"
   },
   {
     "Название": "Разработка клиент-серверных приложений",
@@ -24,6 +24,6 @@
     "Издательство": "Питер",
     "Описание": "Практическое руководство по разработке клиент-серверных систем",
     "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_c.pdf",
-    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/client_server.jpg"
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/3.jpg"
   }
 ]
