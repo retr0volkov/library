@@ -5,7 +5,8 @@
     "Год": "2023",
     "Издательство": "Техносфера",
     "Описание": "Полное руководство по созданию сетевых приложений на платформе .NET",
-    "Ссылка": "https://example.com/books/net_programming"
+    "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_a.pdf",
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/net_programming.jpg"
   },
   {
     "Название": "Сетевые протоколы и их реализация",
@@ -13,7 +14,8 @@
     "Год": "2021",
     "Издательство": "БИНОМ",
     "Описание": "Подробное описание сетевых протоколов и примеры их реализации",
-    "Ссылка": "https://example.com/books/network_protocols"
+    "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_b.pdf",
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/network_protocols.jpg"
   },
   {
     "Название": "Разработка клиент-серверных приложений",
@@ -21,22 +23,7 @@
     "Год": "2022",
     "Издательство": "Питер",
     "Описание": "Практическое руководство по разработке клиент-серверных систем",
-    "Ссылка": "https://example.com/books/client_server"
-  },
-  {
-    "Название": "Основы HTTP и REST API",
-    "Автор": "Николаев Г.Г.",
-    "Год": "2020",
-    "Издательство": "ДМК Пресс",
-    "Описание": "Все о протоколе HTTP и принципах построения RESTful API",
-    "Ссылка": "https://example.com/books/http_rest"
-  },
-  {
-    "Название": "Сокеты и многопоточность в Java",
-    "Автор": "Фролов Д.Д.",
-    "Год": "2023",
-    "Издательство": "Лань",
-    "Описание": "Создание сетевых приложений с использованием сокетов и потоков в Java",
-    "Ссылка": "https://example.com/books/java_sockets"
+    "Ссылка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/books/book_c.pdf",
+    "Обложка": "https://raw.githubusercontent.com/retr0volkov/library/refs/heads/main/images/client_server.jpg"
   }
 ]
